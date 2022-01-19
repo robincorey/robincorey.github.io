@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robin Corey webpage"
+title                    : "Research webpage"
 title_separator          : "-"
 name                     : &name "Robin Corey"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Robin"
-  avatar           : "me3.jpeg"
+  name             : "Robin Corey"
+  avatar           : "me3.jpg"
   bio              : "Postdoc in computational biophysics"
   location         : "Oxford, UK"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/robincorey"
+  github           : "robincorey"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/robin-corey-8a8708181/"
+  linkedin         : "robin-corey-8a8708181/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1820-7993"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "&RobinCorey1"
+  twitter          : "RobinCorey1"
   vine             :
   weibo            :
   xing             :
