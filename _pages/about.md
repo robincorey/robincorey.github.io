@@ -10,18 +10,19 @@ redirect_from:
 
 This is the personal web page of Dr Robin Corey, a computational biophysicist interested in membrane proteins and how they are affected by their lipid environment. 
 
-About me
+Undergraduate and postgraduate research
 ======
-I got my undergraduate BSc in Biochemistry from the [University of York] (https://www.york.ac.uk/). Here I worked for two terms in the labs of [Professor Neil C Bruce] (https://www.york.ac.uk/biology/research/plant-biology/neil-c-bruce/) on a cytochrome P450 which breaks down the explosive RDX.
+I got my undergraduate BSc in Biochemistry from the [University of York](https://www.york.ac.uk/). Here I worked for two terms in the lab of [Professor Neil C Bruce](https://www.york.ac.uk/biology/research/plant-biology/neil-c-bruce) on a cytochrome P450 which breaks down the explosive RDX.
 
-Getting started
+I then carried out a MSc and PhD at the [University of Bristol](https://bristol.ac.uk/biochemistry/), working in the lab of [Professor Ian Collinson](https://www.bristol.ac.uk/people/person/Ian-Collinson-0cde2e1b-6fb7-4a0a-9ae8-34ee83d80d6a/). Here, I used a range of experimental techniques (including functional assays, FRET, X-ray crystallography, SEC-MALS, and non-natural amino acid substitution) as well as computational methods (including molecular dynamics, molecular modelling, and free energy calculations) to determine the mechanism of protein-secretion in bacteria via SecYEG.A, a key component of bacterial virulence and a promising target for antibiotics. We have now published a series of papers on this topic, combining both experimental and computationl analyses. This includes work on how ATP binding and hydrolysis drives protein secretion via a Brownian ratchet (published in [four](https://elifesciences.org/articles/15598), [separate](https://elifesciences.org/articles/41803), [_eLife_](https://elifesciences.org/articles/35112), [papers](https://elifesciences.org/articles/47402) ), and how the membrane proton motive force also contributes to this (manuscript in preparation). In addition, we have studied how the SecY translocon is "unlocked" by pre-protein (published in [_Structure_](https://www.sciencedirect.com/science/article/pii/S0969212616000460), and how the phospholipid cardiolipin bindings and functionally-modulates SecYEG (published in [_PNAS_](https://www.pnas.org/content/115/31/7967.short)).
+
+SecYEG.A bound to cardiolipin
+![SecYEG.A bound to cardiolipin](/images/Sec_CL.png)
+
+
+Postodoctoral research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I have worked at the [University of Oxford](https://www.bioch.ox.ac.uk/) as a postdoc in the labs of [Professor Mark Sansom](https://www.bioch.ox.ac.uk/research/sansom) and [Dr Phillip Stansfeld](https://warwick.ac.uk/fac/sci/lifesci/people/pstansfeld/) since 2018. See the Stansfeld Research website [here](https://stansfeldresearchgroup.wordpress.com/).
 
 Site-wide configuration
 ------
